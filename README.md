@@ -84,7 +84,7 @@ It is designed to complement voice and tone skills (which handle personal regist
 
 The [wiki](../../wiki) contains:
 
-- [Credits and Acknowledgments](../../wiki/Credits-and-Acknowledgments) — full attribution for Justice Kagan, Boies & Olson, Ross Guberman, Bryan A. Garner, and Anthropic
+- [Credits and Acknowledgments](../../wiki/Credits-and-Acknowledgments) — full attribution for Larissa Meredith-Flister (https://lawve.ai/en/author/larissa-meredith-flister), Justice Kagan, Boies & Olson, Ross Guberman, Bryan A. Garner, and Anthropic
 - [How to Use This Skill](../../wiki/How-to-Use-This-Skill) — when to trigger, how to apply all four parts in sequence, common mistakes
 - [Garner Plain-Language Reference](../../wiki/Garner-Plain-Language-Reference) — substitution table, strong-verb examples, the four tests, signature techniques
 
