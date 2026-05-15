@@ -88,6 +88,10 @@ The [wiki](../../wiki) contains:
 - [How to Use This Skill](../../wiki/How-to-Use-This-Skill) — when to trigger, how to apply all four parts in sequence, common mistakes
 - [Garner Plain-Language Reference](../../wiki/Garner-Plain-Language-Reference) — substitution table, strong-verb examples, the four tests, signature techniques
 
+## Available On
+
+This skill is hosted on **[Lawve.ai](https://lawve.ai/en/skills/persuasive-legal-writing-larissa-meredith-flister)** — a platform for legal AI skills.
+
 ## License
 
 AGPL-3.0. See the skill file for full authorship details.
