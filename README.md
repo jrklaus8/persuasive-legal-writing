@@ -1,6 +1,6 @@
 # Persuasive Legal Writing
 
-A structured skill for legal writing that actually moves people — judges, tribunals, opposing counsel, clients. The skill distils techniques from Justice Elena Kagan's opinions and dissents, the Supreme Court advocacy of David Boies and Ted Olson, Ross Guberman's analytical framework, and Bryan A. Garner's plain-language method.
+A structured skill for legal writing that actually moves people — judges, tribunals, opposing counsel, clients. The skill distils techniques from Justice Elena Kagan's opinions and dissents, the Supreme Court advocacy of David Boies and Ted Olson, Ross Guberman's analytical framework, and Bryan A. Garner's plain-language method (This skills is based on Larissa Meredith-Flister's published skill on https://lawve.ai/en/skills/persuasive-legal-writing-larissa-meredith-flister + added Garner's philosophy and teachings).
 
 > **AI Disclosure** — This skill was developed with the assistance of Claude (Anthropic). The techniques themselves derive from the human sources credited in the [wiki](../../wiki/Credits-and-Acknowledgments). The skill distils those sources into a structured, machine-readable format for use with AI writing tools.
 
